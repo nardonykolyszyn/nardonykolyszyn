@@ -8,4 +8,4 @@ I'm a Software Engineer, Open Source lover and content creator passionated about
 - 📫 Feel free to email me: nardonykolyszyn(at)gmail.com
 - 🧙‍🧝‍ I love Sci-Fi and Middle-earth novels and books
 - 🤲 I teach programming for free
-- 🌐 I'm Poliglot (Polish, Spanish, English, Estonian, Finnish and Russian)
+- 🌐 I probably speak your language
