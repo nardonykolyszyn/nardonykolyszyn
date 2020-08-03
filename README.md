@@ -15,7 +15,7 @@ I'm a Software Engineer, Open Source lover and content creator passionated about
 Currently working with:
 
 ‣ Ruby
-‣ Crystal (Hotter Ruby sister)
+‣ Crystal
 ‣ JavaScript
 ‣ Elixir
 ‣ Rust
