@@ -9,3 +9,13 @@ I'm a Software Engineer, Open Source lover and content creator passionated about
 - 🧙‍🧝‍ I love Sci-Fi and Middle-earth novels and books
 - 🤲 I teach programming for free
 - 🌐 I probably speak your language
+
+-----------
+
+Currently working with:
+
+‣ Ruby
+‣ JavaScript
+‣ Elixir
+‣ Rust
+‣ Swift
