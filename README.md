@@ -9,7 +9,7 @@ I'm a Software Engineer, Open Source lover and content creator passionated about
 - 🧙‍🧝‍ I love Sci-Fi and Middle-earth novels and books
 - 🤲 I teach programming for free
 - 🌐 I probably speak your language
-- 💬 Founder of Ruby Miners and openSUSE (Poland)
+- 💬 Speaker at Ruby Miners and openSUSE (Poland)
 
 -----------
 
