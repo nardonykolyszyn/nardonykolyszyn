@@ -21,4 +21,5 @@ Currently working with:
 ‣ Rust
 ‣ Swift
 
+-----
 PS: Coding is just fun, remember that.
