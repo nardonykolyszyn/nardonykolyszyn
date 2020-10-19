@@ -20,3 +20,5 @@ Currently working with:
 ‣ Elixir
 ‣ Rust
 ‣ Swift
+
+PS: Coding is just fun, remember that.
